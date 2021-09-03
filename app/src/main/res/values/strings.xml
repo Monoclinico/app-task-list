@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">To do list</string>
+    <string name="label_new_task">Criar tarefa</string>
+    <string name="label_hint_title">Título</string>
+    <string name="label_hint_date">Data</string>
+    <string name="label_hint_hour">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_task_title">Tarefas</string>
+    <string name="description_fab_add_new_task">Botão para adicionar nova tarefa</string>
+    <string name="label_menu_edit">Editar</string>
+    <string name="label_menu_delete">Deletar</string>
+
 </resources>
