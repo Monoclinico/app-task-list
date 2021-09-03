@@ -1,4 +1,4 @@
-# App para criar uma lista tarefas simples
+# App para criar uma lista de tarefas simples
 
 
 
