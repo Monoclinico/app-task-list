@@ -1,4 +1,4 @@
-# App para Apresentar o Portfólio do GitHub
+# App para criar uma lista tarefas simples
 
 
 
