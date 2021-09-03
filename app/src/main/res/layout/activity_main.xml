@@ -18,6 +18,11 @@
         android:textColor="@color/black"
         android:textSize="24sp"
         />
+
+    <include android:id="@+id/include_empty_state"
+        layout="@layout/empty_state"
+        />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_tasks"
         android:layout_width="match_parent"
@@ -27,6 +32,7 @@
         app:layout_constraintBottom_toTopOf="@id/fab_add_new_task"
         tools:itemCount="25"
         tools:listitem="@layout/item_task"
+        tools:visibility="gone"
         />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
